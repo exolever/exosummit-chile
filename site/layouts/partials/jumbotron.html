@@ -1,0 +1,41 @@
+<div class="relative">
+  <div class="bk-salim"></div>
+      <div class="mw7 center ph3 green-box">
+          <div class="db mb3 rectangle pv4 ph3">
+              <div class="mw7 relative subtitle">
+                  {{ if .subtitle }}
+                  <p class="b fp16 di lh-title mb3 secondary mw6">
+                      {{.subtitle}}
+                  </p>
+                  {{ end }}
+              </div>
+              <div class="mx-jumbotron relative mb3">
+                  <h1 class="fp48 b di lh-title mb3 white ">
+                      {{.title}}
+                  </h1>
+              </div>
+              <div class="relative mb1">
+                  <p class="fp18 di lh-title mb3 black mw6">
+                      <i class="fas fa-map-marker-alt orange"></i><span class="secondary"> {{.location}}</span>
+                  </p>
+              </div>
+              <div class="relative mb3">
+                  <p class="fp18 di lh-title mb3 black mw6 ">
+                      <i class="fas fa-calendar-alt orange"></i><span class="secondary"> {{.when}}</span>
+                  </p>
+              </div>
+              <div class="push-top btn-group">
+                  <a class="push-right-xs btn b bg-orange white w-100 w-auto-ns fp16" href="#signup">
+                    <span class="text-btn">
+                      {{ i18n "signup" }}
+                    </span>
+                  </a>
+                  <a class="btn w-100 w-auto-ns bg-transparent orange fp16 join-button" href="#">
+                    <span class="text-btn">
+                      {{ i18n "interested" }}
+                    </span>
+                  </a>
+              </div>
+          </div>
+      </div>
+</div>

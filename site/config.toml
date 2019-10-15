@@ -1,0 +1,16 @@
+baseurl = "/"
+languageCode = "en"
+languageLang = "en"
+title = "ExO Summit"
+
+# RSS, categories and tags disabled for an easy start
+# See configuration options for more details:
+# https://gohugo.io/getting-started/configuration/#toml-configuration
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+googleAnalytics = "UA-135475643-7"
+DefaultContentLanguage = "en"
+[languages]
+  [languages.en]
+    weight = 1
+  [languages.es]
+    weight = 2
