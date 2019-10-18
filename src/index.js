@@ -18,14 +18,14 @@ $(function(){
       center: true,
       controls: false
     });
-    var slider2 = tns({
-      container: '.allies',
-      items: 5,
-      autoplay: true,
-      speed: 400,
-      center: true,
-      controls: false
-    });
+    // var slider2 = tns({
+    //   container: '.allies',
+    //   items: 5,
+    //   autoplay: true,
+    //   speed: 400,
+    //   center: true,
+    //   controls: false
+    // });
     var slider3 = tns({
       container: '.organizations',
       items: 5,
@@ -79,7 +79,6 @@ $(function(){
           entry_point: {
             'refereal': window.location.hostname,
             'name': $(this).data('hubspotproperty'),
-            'city': $(this).data('hubspotcity')
           }
       };
       var url = $(this).attr('action');
