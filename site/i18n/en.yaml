@@ -50,3 +50,7 @@
   translation: "Try again"
 - id: ok
   translation: "OK"
+- id: price
+  translation: "Price"
+- id: join-btn
+  translation: "JOIN"

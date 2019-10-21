@@ -12,6 +12,14 @@
   color: var(--highlight);
 }
 
+.yellow {
+  color: var(--yellow);
+}
+
+.purple {
+  color: var(--purple);
+}
+
 .orange {
   color: var(--orange);
 }
@@ -70,6 +78,10 @@
 
 .bg-white {
   background-color: var(--white);
+}
+
+.bg-purple {
+  background-color: var(--purple);
 }
 
 .bg-orange {

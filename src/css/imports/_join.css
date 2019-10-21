@@ -1,5 +1,11 @@
 .join-box {
     min-height: 420px;
+    border-radius: 16px;
+    background-color: #ffe6c2;
+    padding: 16px;
+}
+.join-box-wrapper {
+    width: 100%;
 }
 .join-box-wrapper:last-child {
     margin-right: 0;
