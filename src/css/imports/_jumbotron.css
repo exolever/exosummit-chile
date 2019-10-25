@@ -1,7 +1,7 @@
 .rectangle {
   max-width: 550px;
   border-radius: 12px;
-  background-color: var(--primary);
+  background-color: var(--dark-blue);
 }
 .rectangle .subtitle {
   letter-spacing: 4px;
@@ -12,22 +12,23 @@
   background-repeat: no-repeat;
   background-size: cover;
   height: 570px;
-  background-image: url('/img/hero/hero.png');
+  /*Don't use absolute paths in CSS because sometimes the page can be loaded from a subdirectory */
+  /*background-image: url('/img/hero/hero.png');*/
   width: 100%;
 }
-.green-box {
+.jumbo-box {
   position: absolute;
   top: 50px;
   left: 20%;
 }
 @media screen and (max-width: 1200px) {
-  .green-box {
+  .jumbo-box {
     left: 10%;
   }
 }
 
 @media (max-width: 640px) {
-  .green-box {
+  .jumbo-box {
     top: 140px;
     left: unset;
   }

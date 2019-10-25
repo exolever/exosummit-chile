@@ -12,6 +12,14 @@
   color: var(--highlight);
 }
 
+.yellow {
+  color: var(--yellow);
+}
+
+.purple {
+  color: var(--purple);
+}
+
 .orange {
   color: var(--orange);
 }
@@ -52,6 +60,10 @@
   color: var(--dark-blue);
 }
 
+.blue-table {
+  color: var(--blue-table);
+}
+
 .bg-primary {
   background-color: var(--primary);
 }
@@ -70,6 +82,10 @@
 
 .bg-white {
   background-color: var(--white);
+}
+
+.bg-purple {
+  background-color: var(--purple);
 }
 
 .bg-orange {
@@ -106,6 +122,10 @@
 
 .bg-dark-blue {
   background-color: var(--dark-blue);
+}
+
+.bg-blue-table {
+  background-color: var(--blue-table);
 }
 
 .bg-fix-primary {

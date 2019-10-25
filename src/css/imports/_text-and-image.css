@@ -1,0 +1,8 @@
+.flex-50 {
+    flex: 1 1 50%;
+}
+.table-text {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+}

@@ -1,5 +1,6 @@
 ---
 title: ExO Summit London 2019
+head: ExO Summit Costa Rica 2019
 subtitle: 'OPENEXO & ACME PRESENT'
 location: 'London, United Kingdom'
 when: '12 November'
@@ -64,8 +65,9 @@ signup:
 save:
     text: "Introductory text"
     eventId: 1
-about: >
-  The ExO Model, based on the best-selling <a href="https://www.openexo.com/books" target="_blank">'Exponential Organizations'</a>, offers a guide to design Exponential Organizations by applying 10 attributes and a 10-week process for its implementation, called ExO Sprint .
+about:
+  title: About the ExO Model
+  text: The ExO Model, based on the best-selling <a href="https://www.openexo.com/books" target="_blank">'Exponential Organizations'</a>, offers a guide to design Exponential Organizations by applying 10 attributes and a 10-week process for its implementation, called ExO Sprint .
 logos:
   - url: /img/airbus-logo/airbus.png
   - url: /img/bogota-logo/bogota.png
@@ -82,39 +84,28 @@ carousel:
   - image: /img/quote2.png
   - image: /img/quote3.png
   - image: /img/quote4.png
-allies:
-  - image: /img/pg-logo/pg.png
-  - image: /img/pg-logo/pg.png
-  - image: /img/pg-logo/pg.png
-  - image: /img/pg-logo/pg.png
-  - image: /img/pg-logo/pg.png
-  - image: /img/pg-logo/pg.png
-  - image: /img/pg-logo/pg.png
-  - image: /img/pg-logo/pg.png
-  - image: /img/pg-logo/pg.png
+join:
+    title: "Join to ExO Summit"
 prices:
-  - name: "Option #1"
+  - name: "Entrada General"
     description: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a tortor rhoncus, placerat quam consequat, aliquam turpis. Pellentesque id velit vel elit volutpat viverra a et sapien. Mauris sem felis, consectetur in justo nec, bibendum blandit mi. Fusce imperdiet, nulla a aliquam facilisis, erat risus luctus nibh, sed placerat leo ex sed elit.
-      <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-      </ul>
-    price: 222$
-  - name: "Option #2"
+          <ul>
+            <li>Kit de bienvenida</li>
+            <li>Entrada a conferencias</li>
+            <li>Acceso a breakout rooms</li>
+            <li>Material de apoyo</li>
+            <li>Libro"Transformación Exponencial"</li>
+            <li>Alimentación</li>
+          </ul>
+    buy_link: "https://www.eventbrite.es/e/entradas-exo-summit-costa-rica-2019-74061220103"
+  - name: "Entrada VIP"
     description: >
-      Sed eget ligula nulla. Curabitur vitae volutpat orci. Sed efficitur id erat sed porta. Nulla vel elit nec urna tincidunt porta eu vitae neque. Nullam accumsan, sapien id ultricies placerat
       <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
+        <li>Cupo limitado (máximo 30 espacios)</li>
+        <li>Entrada general </li>
+        <li>Lugar preferencial.</li>
+        <li>Almuerzo con Francisco Palao</li>
+        <li>45 min de coaching individual con un ExO Certified Coach</li>
       </ul>
-    price: 444$
-  - name: "Option #3"
-    description: >
-      Etiam iaculis lectus dolor, eu ullamcorper nisi accumsan eu. Morbi finibus ultricies commodo. Nam bibendum consectetur nisl tincidunt interdum. In hac habitasse platea dictumst.
-      <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-      </ul>
-    price: FREE
+    buy_link: "https://www.eventbrite.es/e/entradas-exo-summit-costa-rica-2019-74061220103"
 ---
