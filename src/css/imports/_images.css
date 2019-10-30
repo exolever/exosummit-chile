@@ -9,3 +9,6 @@ img {
 img:not(.w-100) {
   border-radius: var(--border-radius-img);
 }
+.radius-0 {
+    border-radius: 0 !important;
+}

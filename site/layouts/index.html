@@ -14,11 +14,11 @@
 
 
 {{ partial "model" .Params }}
-{{ partial "organizations" .Params }}
+<!--{{ partial "organizations" .Params }}-->
 {{ partial "speakers" .Params.speakers }}
 {{ partial "text-and-image" .Params }}
 {{ partial "organizers" .Params.organizers }}
-{{ partial "join" .}}
+{{ partial "join" .Params}}
 {{ partial "quotes" .Params}}
 {{ partial "save-form" . }}
 {{ partial "scripts.html" . }}

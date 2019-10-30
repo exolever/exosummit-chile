@@ -1,11 +1,11 @@
 ---
-title: ExO Summit Costa Rica 2019
+title: ExO Summit Chile 2019
 head: >
-    ExO Summit<br>Costa Rica 2019
-subtitle: 'OPENEXO Y GRUPO CERCA PRESENTAN'
-location: 'Centro de Convenciones CRCC, San José.'
-when: '20 Noviembre 7:30 - 17:00 (CST)'
-contact_email: raquel.vega@grupocerca.com
+    ExO Summit Chile <br>2019
+subtitle: 'OPENEXO PRESENTA'
+location: 'Fundación Telefónica, Santiago'
+when: '5 Diciembre, 9 - 18 horas'
+contact_email: exosummits@openexo.com
 buy_url: "https://www.openexo.com"
 program: /dubai_exo_summit_2019.pdf
 signUpApi: https://exo4432.qa.exolever.com/api/accounts/join-us/
@@ -20,19 +20,19 @@ onboarding_text: >
     <li>Check in</li>
   </ul>
 blurb:
-    heading: "Exponencialidad y Disrupción"
+    heading: "¡Chile despertó!"
     text: >
-      <p>El ExO Summit es un evento de carácter muy práctico donde líderes mundiales, ejecutivos, emprendedores y agentes de cambio se reúnen para compartir sus experiencias transformadoras, intercambiar ideas, desafiar creencias y atreverse a transformar nuestro tejido empresarial utilizando el Modelo ExO.</p>
-      <p>Te invitamos a ser parte de este primer ExO Summit en América Central y el Caribe para experimentar el poder del Modelo ExO que ya ha transformado a múltiples compañías, personas e instituciones en todo el mundo.</p>
+     <p>La Cuarta Revolución Industrial nos muestra su cara social. El acceso a la información y las redes sociales están dando un resultado sin precedentes: la sociedad está actuando para generar un cambio.</p>
+     <p>A día de hoy tenemos tecnologías y herramientas que no teníamos antes, y que nos permiten promover una transformación que culmine lo iniciado en las calles. Podemos aprovechar la tecnología, las metodologías, la innovación y la disrupción para cambiar el país, el sistema actual y por supuesto beneficiar a todos. OpenExO como comunidad va a estar ahí, va a ser parte de que esto suceda, vamos a transformar el mundo para un futuro mejor. Despertemos, y sobre todo, transformemos Chile.</p>
 program:
     heading: "Qué encontrarás en este Summit"
     description: >
-      A diferencia de muchos otros eventos, el objetivo del ExO Summit no es sólo inspirar, sino <strong>empoderar a los líderes del momento</strong> (a través de talleres prácticos, reuniones personalizadas, testimonios directos y casos de estudio) con las herramientas y el soporte que necesitan para poder empezar la transformación exponencial al día siguiente del evento.
+      El ExO Summit es un evento de carácter muy práctico donde líderes mundiales, ejecutivos, emprendedores y agentes de cambio se reúnen para compartir sus experiencias transformadoras, intercambiar ideas, desafiar creencias y atreverse a transformar el mundo utilizando el Modelo ExO.
     items:
-      - text: Transformar la visión ante las <strong>nuevas tecnologías exponenciales</strong>
-      - text: Proporcionar a las empresas una opción de <strong>estructura adaptable y disruptiva</strong>
-      - text: Dotar de <strong>herramientas para implementar</strong> un cambio basado en la situación tecnológica actual
-      - text: Proveer una <strong>red de contactos</strong> de clase mundial (ExO Community)
+      - text: <strong>Transformar la visión del país ante las nuevas tecnologías exponenciales</strong>
+      - text: <strong>Proporcionar a las empresas e instituciones chilenas una opción de estructura adaptable y disruptiva</strong>
+      - text: <strong>Dotar de herramientas para implementar un cambio basado en la situación tecnológica actual</strong>
+      - text: <strong>Proveer una red de contactos de clase mundial (ExO Community)</strong>
 speakers:
     - title: Salim Ismail (Virtual)
       subtitle: 'Co-fundador y Presidente OpenExO<br/>Canada'
@@ -69,11 +69,7 @@ organizers:
     - image: /img/openexo-logo/openexo-logo-rgb-no-security.png
       url: https://www.openexo.com
       description: >
-        <p>OpenExO es la comunidad de transformación global de más de 1,500 coaches, inversores, consultores y especialistas en innovación que ayudan a organizaciones, instituciones y personas a desbloquear la abundancia para cambiar el mundo.</p>
-    - image: /img/cerca/cerca-logo-color.png
-      url: https://revistamyt.com/
-      description: >
-        <p>Grupo Cerca es la plataforma de comunicación B2B más grande América Central, con más de 50 eventos realizados por año y amplia experiencia en formación, información y networking para empresas de la región.</p>
+        OpenExO es la comunidad de transformación global de más de 1,500 coaches, inversores, consultores y especialistas en innovación que ayudan a organizaciones, instituciones y personas a desbloquear la abundancia para cambiar el mundo.
 signup:
     heading: "Join the summit"
     text: "Introductory text"
@@ -82,8 +78,8 @@ save:
     text: "Introductory text"
     eventId: 1
 about:
-  title: Acerca de ExO Model
-  text: El Modelo ExO (por sus siglas en inglés Exponential Organizations), basado en el best-seller <a href="https://www.openexo.com/books" target="_blank">‘Organizaciones Exponenciales’</a>, ofrece una guía para diseñar Organizaciones Exponenciales mediante la aplicación de 10 atributos y un proceso de 10 semanas para su implementación, llamado ExO Sprint.
+  title: Sobre el Modelo ExO
+  text: El Modelo ExO (por sus siglas en inglés Exponential Organizations), basado en el best-seller <a href="https://www.openexo.com/books" target="_blank">‘Organizaciones Exponenciales’</a> El Modelo ExO (por sus siglas en inglés Exponential Organizations), está basado en el best-seller Organizaciones Exponenciales y ofrece una guía para ayudar a organizaciones, instituciones y personas a navegar la incertidumbre y la disrupción que trae la Cuarta Revolución Industrial, mediante la creación de un propósito y la aplicación de 10 atributos.
 logos:
     - url: /img/airbus-logo/airbus.png
     - url: /img/bogota-logo/bogota.png
@@ -101,26 +97,25 @@ carousel:
   - image: /img/quote3.png
   - image: /img/quote4.png
 join:
-    title: "Únete al ExO Summit Costa Rica 2019"
+    title: "Únete a ExO Summit Chile 2019"
+    description: >
+       Los beneficios netos de este evento seran destinados a las iniciativas <strong>Lorem ipsum</strong>, y <strong>Lorem Ipsum Dolor Sit aMet</strong> para lorem ipsum dolor sit amet.
 prices:
-  - name: "Entrada General"
+  - name: "Entrada medio dia"
     description: >
           <ul>
-            <li>Kit de bienvenida</li>
             <li>Entrada a conferencias</li>
-            <li>Acceso a breakout rooms</li>
-            <li>Material de apoyo</li>
-            <li>Alimentación</li>
+            <li>Coffee break</li>
+            <li>Acceso a los resultados del Taller ExO</li>
           </ul>
     buy_link: "https://www.eventbrite.es/e/entradas-exo-summit-costa-rica-2019-74061220103"
-  - name: "Entrada VIP"
+  - name: "Entrada dia completo"
     description: >
       <ul>
-        <li>Cupo limitado (máximo 30 espacios)</li>
-        <li>Entrada general </li>
-        <li>Lugar preferencial.</li>
-        <li>Almuerzo con Francisco Palao</li>
-        <li>45 min de coaching individual con un ExO Certified Coach</li>
+        <li>Entrada a conferencias</li>
+        <li>Participación en los Talleres ExO: Cómo transformar Chile para un futuro mejor</li>
+        <li>Material de apoyo</li>
+        <li>Coffee breaks</li>
       </ul>
     buy_link: "https://www.eventbrite.es/e/entradas-exo-summit-costa-rica-2019-74061220103"
 ---
