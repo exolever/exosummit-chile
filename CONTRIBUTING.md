@@ -45,5 +45,3 @@ We actively welcome your pull requests.
 
 ## License
 
-By contributing to Victor-Hugo, you agree that your contributions will be licensed
-under its [MIT license](LICENSE).
