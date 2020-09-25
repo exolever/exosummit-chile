@@ -1,18 +1,22 @@
 <div class="push-bottom-xxl wrapper-program wrapper">
     <div class="flex-l mhn1-l center wp-960">
-        <div class=" mb2 w-30-l fp32 dark-blue b title">
+        <div class=" mb2 w-40-l fp32 dark-blue b title">
             {{.heading}}
-            <a class="btn w-100 bg-purple white fp16 push-top download-btn-dp" href="{{.Params.program}}"
+            <div class="fp16 mv3 short-body normal" style="color: #46464b; line-height:1.5">
+                <p>
+                    {{.description | safeHTML}}
+                </p>
+            </div>
+            <a class="btn bg-purple white fp16 push-top download-btn-dp" href="{{.Params.program}}"
                target="_blank">
                 {{ i18n "download_program" }}
             </a>
         </div>
-        <div class="w-70-l mb2 push-left-sm bg-grey-2 dark-blue br1 pv4 ph3 summary-program">
-            <p>{{.description | safeHTML}}</p>
+        <div class="w-60-l mb2 push-left-sm bg-grey-2 dark-blue br1 pv4 ph3 summary-program">
             {{ range .items }}
             <ul>
                 <li>
-                    <span class="roboto">
+                    <span class="roboto fp20">
                         {{.text | safeHTML}}
                     </span>
                 </li>

@@ -1,9 +1,10 @@
 <section id='signup'>
 <div class="push-top-lg pb3 pv4 bg-orange-2 join-wrapper">
   <div class="mhn1-l center wp-960 wrapper">
-    <div class=" push-bottom w-100 dark-blue fp32 b tc">{{.Params.join.title}}</div>
+    <div class=" push-bottom w-100 dark-blue fp32 b tc">{{.join.title}}</div>
+    <div class="tc w-100 fp20 mb4">{{.join.description | safeHTML}}</div>
     <div class="w-100-l mb1 flex-l justify-between">
-      {{ range .Params.prices }}
+      {{ range .prices }}
         <div class="push-right-sm tc join-box-wrapper">
           <div class="join-box">
             <p class="dark-blue tc fp24 b push-bottom-sm">{{.name}}</p>

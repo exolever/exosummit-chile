@@ -3,12 +3,16 @@
     <div class="push-bottom w-100 dark-blue fp32 b tc">{{ i18n "about-organizers" }}</div>
     <div class="w-100-l push-bottom flex-l ">
       {{ range . }}
-        <div class="w-50 mr3 tc w-100-mbl">
+        <div class="w-100 mr3 tc w-100-mbl">
           <div class="min-h-350">
             <div class="flex-l br1 bg-fix-primary items-center content-center" style="height: 202px">
               <a href="{{.url}}" target="_blank" class="tc center"><img style="width: 330px" src="{{.image}}"></a>
             </div>
-            <div class="tl fp16 push-top-sm">{{ .description | safeHTML }}</div>
+            <div class="flex justify-center fp16 push-top-sm">
+              <p class="tc">
+                {{ .description | safeHTML }}
+              </p>
+            </div>
           </div>
           <div class="w-50 mr3 tc w-100-mbl btn-group push-bottom center">
             <a href="{{.url}}" target="_blank" class="center mt3 btn mb3 w-auto-ns mb0-ns bg-grey-2 tc purple">{{ i18n "visit-webpage" }}</a>
